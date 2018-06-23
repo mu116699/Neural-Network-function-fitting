@@ -1,6 +1,6 @@
 mnistdatachange.py和numpytest.py是使用numpy库生成需要的数据。
 
-fullconnection.py是多层感知器建立的深度神经网络全连接形式建立的函数的拟合的模型。
+fullconnection.py是利用多层感知器建立的全连接神经网络，用来实现函数的拟合。
 
 oneCNNfitting.py是使用一维的卷积神经网络建立的神经网络的函数的拟合
 
