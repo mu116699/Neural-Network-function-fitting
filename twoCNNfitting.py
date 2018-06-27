@@ -1,4 +1,4 @@
-'''Trains a simple convnet According to MNIST reorganization.
+'''培训一个简单的小点子根据 MNIST 重组。'''
 
 from __future__ import print_function
 import keras
